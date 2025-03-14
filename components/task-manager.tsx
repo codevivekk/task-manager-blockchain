@@ -104,7 +104,7 @@ export default function TaskManager() {
         onEdit={handleEditTask}
         onMarkCompleted={handleMarkCompleted}
       />
-    </div>
+    </div> 
   )
 }
 
